@@ -1,0 +1,30 @@
+.header {
+    text-align: right;
+
+}
+
+.sub_header {
+    display : inline-block
+}
+
+.sub_header a {
+    margin : 0 20px
+}
+
+.body {
+    display: flex ;
+    flex-direction: row;
+    margin : 50px 0
+}
+
+.side_bar {
+    width: 200px;
+}
+
+.side_bar a{
+    display: block;
+    margin: 10px 0 ;
+}
+
+
+
